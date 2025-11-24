@@ -1,3 +1,12 @@
+This project is a personal redesign of the Sangster International Airport website.
+The logo and branding are property of MBJ Airports Limited and are used here strictly
+for educational and non-commercial purposes.
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
