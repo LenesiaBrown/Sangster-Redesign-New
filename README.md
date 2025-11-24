@@ -1,6 +1,6 @@
-This project is a personal redesign of the Sangster International Airport website.
+**This project is a personal redesign of the Sangster International Airport website.
 The logo and branding are property of MBJ Airports Limited and are used here strictly
-for educational and non-commercial purposes.
+for educational and non-commercial purposes.**
 
 
 
